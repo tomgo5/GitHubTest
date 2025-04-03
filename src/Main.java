@@ -6,6 +6,10 @@ public class Main {
     }
 
     public static void method1(String[] args) {
-        return;
+        System.out.println("Another Hello World!");
+    }
+
+    public static void method2(String[] args) {
+        System.out.println("TEST");
     }
 }
